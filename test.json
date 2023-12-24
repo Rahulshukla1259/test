@@ -1,4 +1,4 @@
-"code":'<math xmlns="http://www.w3.org/1998/Math/MathML">
+"code":'<math>
           <mstyle displaystyle="true" data-semantic-type="relseq" data-semantic-role="equality" data-semantic-id="21" data-semantic-children="18,20" data-semantic-content="9" data-semantic-speech="StartFraction d Over d x EndFraction x Superscript n Baseline equals n x Superscript n minus 1">
             <mrow data-semantic-type="infixop" data-semantic-role="implicit" data-semantic-annotation="clearspeak:unit" data-semantic-id="18" data-semantic-children="5,8" data-semantic-content="17" data-semantic-parent="21">
               <mfrac data-semantic-type="fraction" data-semantic-role="division" data-semantic-id="5" data-semantic-children="0,4" data-semantic-parent="18">
